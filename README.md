@@ -1,5 +1,17 @@
 # HR Analytics Dashboard 
 
+
+<p align="center">
+  <img width="700" height="170" src="https://github.com/Nikhilkori03/HR-Dashboard/blob/main/Preview/HR-Analytics.jpg">
+</p>
+
+## Links:
+Lets Connect 
+
+[Go to my LinkedIn](https://www.linkedin.com/in/nikhil-kori-31664a2a3/) 🌐
+
+[Go to my Dashboard](https://www.novypro.com/project/hr-analysis-dashboard-23)
+
 ## Project Overview
 
 In this impactful HR analytics project, I demonstrated proficiency in leveraging advanced data visualization and analytics tools to extract key insights and formulate actionable recommendations.
@@ -15,6 +27,22 @@ Employed for creating dynamic and visually appealing dashboards.
 Utilized for data cleaning and transformation.
 ### DAX (Data Analysis Expressions) Query: 
 Leveraged for effective data manipulation and analysis.
+
+## DASHBOARD:
+
+https://github.com/Nikhilkori03/HR-Dashboard/assets/152955475/bc7e0f9c-ab21-4bf4-9438-fcd0391115d3.MP4
+
+![HR Dashboard ](https://github.com/Nikhilkori03/HR-Dashboard/blob/main/Preview/Dashboard.png)
+
+![HR Dashboard ](https://github.com/Nikhilkori03/HR-Dashboard/blob/main/Preview/Dashboard%201.png)
+
+![HR Dashboard ](https://github.com/Nikhilkori03/HR-Dashboard/blob/main/Preview/Dashboard%202.png)
+
+![HR Dashboard ](https://github.com/Nikhilkori03/HR-Dashboard/blob/main/Preview/Dashboard%203.png)
+
+![HR Dashboard ](https://github.com/Nikhilkori03/HR-Dashboard/blob/main/Preview/Dashboard%204.png)
+
+
 
 ## Key Project Phases:
 
